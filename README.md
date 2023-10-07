@@ -26,5 +26,7 @@ You can also make tokken from taxe
 So theire is multiple whey to do that but i think for some we need to be thing like mm or dex
 You want to take a full loan btc, gold and have 50 made in debpt, i dont know how so i can explain you
 What you can also do is instead of building app, think some with debpt and buy them to have debpt+tokken or just make an alliance and take their debpt for a part of the price si you will basically paid /2
+they also can exchange crypo vs a lot of thing by msg like electricity and they Have there real asset BlackQbyte who are store elsewhere in a whey more secure and non tracable
 
+also we need to provide liquidity in AMM on the other chain for that what we can  put a little tax slippage before change or moreover we can put a node with multistablecoin LP vs our Tokken who will be bridge. I dont know if it work its just supposition. Then we can start giving some fee to everybody who have some asset
 We need to start coding in Quantum
